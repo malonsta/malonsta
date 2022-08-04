@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CalorieClac/.idea/CalorieClac.iml" filepath="$PROJECT_DIR$/../CalorieClac/.idea/CalorieClac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercises/.idea/Exercises.iml" filepath="$PROJECT_DIR$/../Exercises/.idea/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blog_project/.idea/blog_project.iml" filepath="$PROJECT_DIR$/../blog_project/.idea/blog_project.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/calorie-calculator-python-code/.idea/calorie-calculator-python-code.iml" filepath="$USER_HOME$/Downloads/calorie-calculator-python-code/.idea/calorie-calculator-python-code.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/codingTest/.idea/codingTest.iml" filepath="$USER_HOME$/Downloads/codingTest/.idea/codingTest.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/django-marketplace-master/.idea/django-marketplace-master.iml" filepath="$USER_HOME$/Downloads/django-marketplace-master/.idea/django-marketplace-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_job_portal/.idea/django_job_portal.iml" filepath="$PROJECT_DIR$/../django_job_portal/.idea/django_job_portal.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/env/.idea/env.iml" filepath="$USER_HOME$/Downloads/env/.idea/env.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kartoza_assessment/.idea/kartoza_assessment.iml" filepath="$PROJECT_DIR$/../kartoza_assessment/.idea/kartoza_assessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../realm_digital/.idea/realm_digital.iml" filepath="$PROJECT_DIR$/../realm_digital/.idea/realm_digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todo_project/.idea/todo_project.iml" filepath="$PROJECT_DIR$/../todo_project/.idea/todo_project.iml" />
+    </modules>
+  </component>
+</project>
